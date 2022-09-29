@@ -4,7 +4,7 @@ public class Objective3Lab1 {
     num1 = 15;
     num2 = 6;
     num3 = 2;
-    sum = num1 + num2 + num3;
+    double sum = num1 + num2 + num3;
     average = sum / 3;
 
     System.out.println(average);
